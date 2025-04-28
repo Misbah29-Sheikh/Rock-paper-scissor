@@ -67,3 +67,12 @@ img{
   font-size:2rem;
   border-radius: 1rem;
 }
+@media screen and (max-width:480px) {
+  img{
+  height:50px;
+  width:50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+}
+  
