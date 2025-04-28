@@ -68,21 +68,4 @@ img{
   border-radius: 1rem;
 }
 
-@media screen and (max-width:1000px) {
-  img{
-  height:50px;
-  width:50px;
-  object-fit: cover;
-  border-radius: 50%;
-  }
-
-  .choice{
-  height:65px;
-  width:65px;
-  border-radius: 50%;
-  display:flex;
-  justify-content: center;
-  align-items: center;
-  }
-}
   
